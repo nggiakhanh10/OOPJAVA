@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="acc35b79-3357-4c08-9fb4-9421bc0485f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BaiThucHanh0303.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Slide40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Slide47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Slide55.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +20,7 @@
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,6 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Workspace/OOPJAVA/BaiThucHanh0303",
     "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
@@ -61,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1677854830751</updated>
       <workItem from="1677854831926" duration="1245000" />
+      <workItem from="1679039570143" duration="32000" />
     </task>
     <servers />
   </component>
